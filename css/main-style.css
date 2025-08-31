@@ -79,7 +79,7 @@ h6{ font-size: 18px}
 .bg-secondary { background-color: #FFF200}
 .bg-dark{ background-color: #000}
 .bg-light{ background-color: #ddd}
-.bg-white{ background-color: #ffff}
+.bg-white{ background-color: #F5F5F5}
 .bg-success{ background-color: greenyellow}
 .bg-danger{ background-color: red}
 .bg-gradient{background-image: linear-gradient(yellow, red, white)}
